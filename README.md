@@ -26,7 +26,7 @@ Install GitBash to add Pandas here: [GitBash Install](https://gitforwindows.org/
 `!pip install hvplot`
 `!pip inatall holoviews`
 
-![libraries_to_use]()
+![libraries_to_use](https://github.com/beccabeastly/Time_Series_Analysis/blob/main/time_series_library.png)
 
 ---
 # add license
