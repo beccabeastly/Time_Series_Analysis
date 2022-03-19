@@ -35,9 +35,9 @@ Educational purposes
 # Code Footnotes
 
 In this program I analyzed data from MercadoLibre and used time series analysis with google colab to forecast future data
-![current_data](https://github.com/beccabeastly/Time_Series_Analysis/blob/main/closing_prices.png)
+![closing_prices_stock](https://github.com/beccabeastly/Time_Series_Analysis/blob/main/closing_prices.png)
 
-![future_forecast]()
+![search_trends](https://github.com/beccabeastly/Time_Series_Analysis/blob/main/search_patterns_heat_map.png)
 
 
 # Contributors
