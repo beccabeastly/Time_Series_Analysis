@@ -26,6 +26,7 @@ Install GitBash to add Pandas here: [GitBash Install](https://gitforwindows.org/
 `!pip install hvplot`
 `!pip inatall holoviews`
 
+![libraries_to_use]()
 
 ---
 # add license
