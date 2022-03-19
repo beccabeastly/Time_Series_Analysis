@@ -42,4 +42,4 @@ In this program I analyzed data from MercadoLibre and used time series analysis 
 
 
 # Contributors
-[Email](beccabeastly@gmail.com)
+[Beccas_Email](beccabeastly@gmail.com)
